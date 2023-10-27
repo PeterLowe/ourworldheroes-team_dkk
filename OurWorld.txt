@@ -1,5 +1,11 @@
-Compiled by Peter Lowe [PL] Kacie Franklin (KF)
+<<<<<<< HEAD
+Compiled by Peter Lowe [PL]
 
+=======
+Compiled by Peter Lowe [PL]
+Compiled by Kacper Borucki [KB]
+Compiled by Kacie Franklin [KF]
+>>>>>>> 4931ae752cf842fb4ce1b1ba865dfaedbcbeda29
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
