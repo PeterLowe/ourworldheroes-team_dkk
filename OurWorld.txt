@@ -1,95 +1,78 @@
-<<<<<<< HEAD
-Compiled by Peter Lowe [PL]
-
-=======
 Compiled by Peter Lowe [PL]
 Compiled by Kacper Borucki [KB]
-<<<<<<< HEAD
 Compiled by Dean Behan  [DB]
-=======
 Compiled by Kacie Franklin [KF]
->>>>>>> 4931ae752cf842fb4ce1b1ba865dfaedbcbeda29
 
->>>>>>> 77f67a4b5f87ce7090f4fc1d84e179a6440d7988
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 The world's 4th Longest River System is in the USA.
+
+----- Canada (KB)
+Canda and the US share 8,800km of borders, which makes it the longest unprotected border.
+
+----- Mexico (DB)
+Mexican drug cartels are estimated to earn between 19 and 29 billion dollars annually from U.S. drug sales.
+
+----- Brazil(DB)
+ Brazil has 4 time zones.
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 The French consume around 25,000 tons of snails each year.
 
+----- Sweden (KF)
+Stockholm has been the Swedish capital since 1523 and is spread across 14 islands.
+
+----- Croatia (KF)
+Zagrab is the largest city and capital of Croatia.
+
+----- Finland (KF)
+It has the world's biggest archipelago, Europe's largest lake district, and Lapland, the last untamed wilderness in Europe.
+
+----- Hungary (KF)
+It has the best water polo team in the history of sports.
+
+----- Denmark (KF)
+It is the home of lego and Hans C Andersen, the father of fairy tales.
+
+----- Poland (KB)
+Vodka was first made in Poland in the 8th century.
+
+----- Ireland (DB)
+Ireland is the most successful country in the Eurovision Song Contest.
+
+----- Italy (DB)
+Italy is the fifth most visited country in the world.
+
+----- Iceland (DB)
+Iceland had the first democratically voted female president.
+
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Ancient Egyptian bakers sometimes kneaded bread dough with their feet.
+
+----- Cape Town (KB)
+Cape Town is home to some of the most luxurious homes.
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 The Chinese invented ice cream over 4, 000 years ago by mixing milk with a rice mixture. 
 
+----- Japan  (KB)
+Japan is home to the oldest company in the world, Kongo Gumi.
+
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
 Greenland is home to the largest National Park in the world
 
-+++++++++++++++++++ Europe ++++++++++++++++
------ Sweden (KF)
-Stockholm has been the Swedish capital since 1523 and is spread across 14 islands.
-
-+++++++++++++++++++ Europe ++++++++++++++++
------ Croatia (KF)
-Zagrab is the largest city and capital of Croatia.
-
-+++++++++++++++++++ Europe ++++++++++++++++
------ Finland (KF)
-It has the world's biggest archipelago, Europe's largest lake district, and Lapland, the last untamed wilderness in Europe.
-
-+++++++++++++++++++ Europe ++++++++++++++++
------ Hungary (KF)
-It has the best water polo team in the history of sports.
-
-+++++++++++++++++++ Europe ++++++++++++++++
------ Denmark (KF)
-It is the home of lego and Hans C Andersen, the father of fairy tales.
-
-+++++++++++++++++++ Europe ++++++++++++++++
------ Poland (KB)
-Vodka was first made in Poland in the 8th century.
-
-+++++++++++++++++++ Americas ++++++++++++++++
------ Canada (KB)
-Canda and the US share 8,800km of borders, which makes it the longest unprotected border.
-
-+++++++++++++++++++ Australia ++++++++++++++++
 ----- Australia (KB)
 Australia is the only continent that is convered by a single country , Australia.
 
-+++++++++++++++++++ Africa ++++++++++++++++
------ Cape Town (KB)
-Cape Town is home to some of the most luxurious homes.
-
-+++++++++++++++++++ Asia ++++++++++++++++
------ Japan  (KB)
-Japan is home to the oldest company in the world, Kongo Gumi.
-+++++++++++++++++++ erupe ++++++++++++++++
------ Ireland (DB)
-reland is the most successful country in the Eurovision Song Contest
 
 
-+++++++++++++++++++ North America ++++++++++++++++
------ Mexico (DB)
-Mexican drug cartels are estimated to earn between 19 and 29 billion dollars annually from U.S. drug sales
 
-+++++++++++++++++++ Europe ++++++++++++++++
------ Italy (DB)
-Italy is the fifth most visited country in the world
 
-+++++++++++++++++++ Europe ++++++++++++++++
------ iceland (DB)
-Iceland had the first democratically voted female president
 
-+++++++++++++++++++ South America ++++++++++++++++
------ BRAZIL(DB)
- Brazil has 4 time zones
 
 
 
