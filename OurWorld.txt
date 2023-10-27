@@ -36,8 +36,8 @@ Greenland is home to the largest National Park in the world
 Stockholm has been the Swedish capital since 1523 and is spread across 14 islands.
 
 +++++++++++++++++++ Croatia ++++++++++++++++
------  (KF)
-Stockholm has been the Swedish capital since 1523 and is spread across 14 islands.
+----- Zagrab (KF)
+Zagrab is the largest city and capital of Croatia.
 
 +++++++++++++++++++ Europe ++++++++++++++++
 ----- Finland (KF)
